@@ -1,0 +1,3 @@
+skip-check:
+  # "Ensure top-level permissions are not set to write-all" - false positive
+  - CKV2_GHA_1
