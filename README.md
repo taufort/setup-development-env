@@ -1,6 +1,6 @@
 # setup-development-env
 
-[![Super-Linter](https://github.com/taufort/setup-development-env/actions/workflows/lint/badge.svg)](https://github.com/marketplace/actions/super-linter)
+[![Super-Linter](https://github.com/taufort/setup-development-env/actions/workflows/lint.yaml/badge.svg)](https://github.com/marketplace/actions/super-linter)
 
 Toolbox for local environment
 
